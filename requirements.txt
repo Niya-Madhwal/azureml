@@ -1,0 +1,7 @@
+seaborn
+setuptools
+pandas
+numpy
+
+
+-e .

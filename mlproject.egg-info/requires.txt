@@ -2,3 +2,7 @@ seaborn
 setuptools
 pandas
 numpy
+matplotlib
+scikit-learn
+catboost
+xgboost

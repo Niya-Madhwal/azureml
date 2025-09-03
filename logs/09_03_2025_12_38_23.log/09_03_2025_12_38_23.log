@@ -1,0 +1,8 @@
+[ 2025-09-03 12:38:25,044 ] 22 root - INFO - Entered the data ingestion method or component
+[ 2025-09-03 12:38:25,048 ] 26 root - INFO - Read dataset as Df
+[ 2025-09-03 12:38:25,053 ] 30 root - INFO - Tain test initiated
+[ 2025-09-03 12:38:25,059 ] 36 root - INFO - Ingestion of data done
+[ 2025-09-03 12:38:25,063 ] 67 root - INFO - Train and test data reading
+[ 2025-09-03 12:38:25,063 ] 47 root - INFO - Catergorcal column encdoing complelted 
+[ 2025-09-03 12:38:25,064 ] 48 root - INFO - Standard scaling  complelted
+[ 2025-09-03 12:38:25,064 ] 79 root - INFO - Applying preprocessing ontraining and testing dataframe
